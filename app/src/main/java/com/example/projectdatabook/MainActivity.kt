@@ -208,7 +208,7 @@ private fun CreateInfo() {
         Text(text = "Android Compose Programmer", modifier = Modifier.padding(3.dp))
 
         Text(
-            text = "@pratik-2904",
+            text = "@Pratik-2904",
             modifier = Modifier.padding(3.dp),
             style = MaterialTheme.typography.bodyMedium
         )
